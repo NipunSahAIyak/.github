@@ -8,9 +8,20 @@ More info about NisAI here: https://bharatsahaiyak-docs.vercel.app/nipun_sahaiya
 
 ### Important Repositories
 
+#### Backend
+
 * [ingestor](https://github.com/NipunSahAIyak/ingestor) - Linked to NisAI Assessments, this is the service responsible for taking in a questionnaries according to Global Assessment Protocol (GAP) and ingest into data using specific executors.
 * [data-service](https://github.com/NipunSahAIyak/data-service) - Linked to NisAI assessments, data service is a registry that holds the organization (could also be a state) data on it's own data center.
 * [core-service](https://github.com/NipunSahAIyak/core-service) - The core-service holds the responsbility of orchestrating requests from different resources.
+
+#### Web 
+* [web-executor](https://github.com/NipunSahAIyak/web-executor) - Web UI for assessments in Nipun SahAIyak.
+
+#### Android
+* [android-nisai-executor](https://github.com/NipunSahAIyak/android-nisai-executor) - Android UI for assessments in Nipun SahAIyak.
+
+#### DevOps
+* [devops](https://github.com/NipunSahAIyak/devops) - Everything deployment related to NisAI
 
 ### Releases
 
