@@ -1,6 +1,6 @@
 ## Nipun Sah"AI"yak
 
-<img width="341" alt="Nipun SahAIyak Logo" src="https://github.com/NipunSahAIyak/.github/assets/5885669/fa6bf43e-7d8e-4ae2-8811-d2b05232af2e">
+<img alt="Nipun SahAIyak Logo" src="https://github.com/NipunSahAIyak/.github/assets/5885669/fa6bf43e-7d8e-4ae2-8811-d2b05232af2e">
 
 Welcome to the Github repos of Nipun SahAIyak. 
 
