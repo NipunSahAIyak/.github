@@ -20,7 +20,7 @@ More info about NisAI here: https://bharatsahaiyak-docs.vercel.app/nipun_sahaiya
 * [web-executor](https://github.com/NipunSahAIyak/web-executor) - Web UI for assessments in Nipun SahAIyak.
 
 #### Android
-* [android-nisai-executor](https://github.com/NipunSahAIyak/android-nisai-executor) - Android UI for assessments in Nipun SahAIyak.
+* [android-nisai-orchestrator](https://github.com/NipunSahAIyak/android-nisai-orchestrator) - Android UI for assessments in Nipun SahAIyak.
 
 #### DevOps
 * [devops](https://github.com/NipunSahAIyak/devops) - Everything deployment related to NisAI
